@@ -1,5 +1,3 @@
-# H1 Header
-
-###### Header
-
-I add a #
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
